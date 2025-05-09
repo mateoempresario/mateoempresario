@@ -21,7 +21,12 @@
   <p>Esta es mi primera página web.</p>
 </body>
 </html>
-<!--
+<!-body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+}-
 **mateoempresario/mateoempresario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
